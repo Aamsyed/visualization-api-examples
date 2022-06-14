@@ -237,3 +237,5 @@ And that's the basics of how to create a custom visualization using the Visualiz
 There's a bunch of additional functionality you can use as well, so definitely take a look at the [Visualization API Reference](api_reference.md) for more information.
 
 Happy visualizing!
+
+Good day!
